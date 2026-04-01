@@ -1,1 +1,2 @@
 2026-03-26 09:00:16 | {'mars_base_internal_temperature': 29.24, 'mars_base_external_temperature': 6.71, 'mars_base_internal_humidity': 53.31, 'mars_base_external_illuminance': 573.6, 'mars_base_internal_co2': 0.038, 'mars_base_internal_oxygen': 5.99}
+2026-04-01 08:28:28,22.25,14.23,57.36,576.43,0.053,5.86
