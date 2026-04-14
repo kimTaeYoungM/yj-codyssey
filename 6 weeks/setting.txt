@@ -1,0 +1,5 @@
+os
+cpu_cores
+cpu_usage
+memory_size
+memory_usage
