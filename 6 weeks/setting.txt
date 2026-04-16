@@ -1,5 +1,12 @@
 os
+node_name
 cpu_cores
 cpu_usage
+cpu_temp
+cpu_freq
 memory_size
 memory_usage
+disk_usage
+boot_time
+mars_base_internal_temperature
+mars_base_internal_oxygen
